@@ -24,7 +24,7 @@
 
 `-webkit-text-fill-color` : [Here is the more details](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)
 
-### Click and look me <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="40">:
+### Click and look me <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="40">
 <hr>
 
 [![text-parallax](https://user-images.githubusercontent.com/60232135/217393934-1ca1ac38-f0c2-48cd-9804-f2d1846d40ae.gif)](https://esha98.github.io/Text_Parallax/)
